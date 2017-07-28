@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Login</title>
+  </head>
+  <body>
+    <form class="" action="/login" method="post">
+      <input type="text" name="name" placeholder="login"value="">
+      <input type="text" name="password" placeholder="password"value="">
+      <input type="submit" name="submit" value="Submit">
+    </form>
+  </body>
+</html>
